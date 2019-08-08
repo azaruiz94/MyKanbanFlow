@@ -1,0 +1,35 @@
+.todo_container {
+  border: 5px dashed transparent;
+  background: #ddd;
+  margin: 1em;
+  min-height: 8em;
+  padding: 1em;
+  width: 20em;
+}
+
+.todo_container.hovering {
+  background: #b6d6fb;
+  border-color: #276cbc;
+}
+
+.card {
+  background: white;
+  cursor: pointer;
+  display: inline-block;
+  padding: 1em;
+}
+
+.first-container{
+  background-color:#eee;
+  height:100%;
+}
+
+.second-container{
+  background-color:#b3dcff;
+  height:100%;
+}
+
+.third-container{
+  background-color:#3be8b0;
+  height:100%;
+}
